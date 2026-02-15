@@ -1,0 +1,5 @@
+docs/.obsidian/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
