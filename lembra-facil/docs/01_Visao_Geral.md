@@ -53,6 +53,9 @@ O MVP será desenvolvido rodando exclusivamente no celular do usuário principal
 
 ### Telas previstas: 3
 
+<p align="center">
+  <img src="../telas-imagem/Telas-app-lebra-facil.png" width="600">
+</p>
 ### 4.1 Tela 1 — "Hoje" (Tela Principal)
 
 Função:
